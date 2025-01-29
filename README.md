@@ -1,4 +1,3 @@
-```markdown
 # Goodreads Data Scraping & Analysis
 
 Welcome to the **Goodreads Data Scraping & Analysis** repository! This project demonstrates how to scrape, clean, and analyze book data from [Goodreads.com](https://www.goodreads.com) using **Python**, **Selenium**, and **BeautifulSoup**. 
@@ -167,4 +166,4 @@ Contributions are welcome! Please open an **issue** or submit a **pull request**
 ## License
 
 This project is licensed under the [MIT License](LICENSE). You’re free to use, modify, and distribute it as long as you retain the license and attributions.
-```
+
